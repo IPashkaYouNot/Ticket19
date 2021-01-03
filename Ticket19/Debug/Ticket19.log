@@ -1,0 +1,6 @@
+﻿  Ticket19.cpp
+C:\Users\User\Desktop\Univer\OP\Tickets\Ticket19\Ticket19.cpp(64,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\Univer\OP\Tickets\Ticket19\Ticket19.cpp(98,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\Univer\OP\Tickets\Ticket19\Ticket19.cpp(106,30): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\Univer\OP\Tickets\Ticket19\Ticket19.cpp(132,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Ticket19.vcxproj -> C:\Users\User\Desktop\Univer\OP\Tickets\Ticket19\Debug\Ticket19.exe
